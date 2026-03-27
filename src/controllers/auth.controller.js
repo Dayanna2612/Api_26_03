@@ -1,6 +1,6 @@
 import bcrypt from "bcrypt";
 import jwt from "jsonwebtoken";
-import { findUserByEmail, createUser } from "../services/auth.service.js";
+import { findUserByEmail, createUser } from "../services/auth.services.js";
 
 export const register = async (req, res) => {
   try {
