@@ -1,0 +1,21 @@
+{
+  "name": "api_26_03",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dayanna2612/Api_26_03.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Dayanna2612/Api_26_03/issues"
+  },
+  "homepage": "https://github.com/Dayanna2612/Api_26_03#readme"
+}
